@@ -2,7 +2,7 @@
 .env
 
 # База данных бота — содержит переписку, ID и username учеников
-data.json
+#data.json
 
 # Служебные файлы Python
 __pycache__/
